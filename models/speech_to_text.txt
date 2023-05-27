@@ -1,0 +1,1 @@
+download vosk-model-small-ru and put here
